@@ -1,0 +1,11 @@
+.nav {
+    &--active {
+        background-color: coral;
+    }
+
+    &__item {
+        &--active {
+            color: lightblue;
+        }
+    }
+}

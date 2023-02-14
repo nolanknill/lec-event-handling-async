@@ -1,1 +1,6 @@
-/*# sourceMappingURL=styles.css.map */
+.nav--active {
+  background-color: coral;
+}
+.nav__item--active {
+  color: lightblue;
+}/*# sourceMappingURL=styles.css.map */
